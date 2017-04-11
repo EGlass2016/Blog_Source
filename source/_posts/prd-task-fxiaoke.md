@@ -19,13 +19,13 @@ categories: 产品部门
 # 项目群介绍
 
 进入后，icon为笔记本与手机的棕色图标为与产品技术相关的项目，包括
-- 客户后台系统：[客户的使用的后台](www.epeijing.cn/erp)
+- 客户后台系统：[客户的使用的后台](https://www.epeijing.cn/erp)
 - 公司后台系统：公司配置客户使用功能的后台
 - 试戴系统：与试戴系统有关的移动端与PC端功能
 - 红包系统：与红包系统有关的移动端与PC端功能
 - 移动下单系统：与试戴系统有关的移动端与PC端功能
 - 在线商城系统：与微信商城有关的移动端与PC端功能
-- 门店系统：[新的客户使用后台](www.epeijing.cn/eglass-erp)
+- 门店系统：[新的客户使用后台](https://www.epeijing.cn/eglass-erp)
 
 ![纷享销客项目](http://oo0lr6twe.bkt.clouddn.com/prd-task-fxiaoke-project.png)
 
